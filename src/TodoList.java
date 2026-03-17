@@ -7,7 +7,7 @@ class Task {
 
 public class TodoList {
 
-    static void main() {
+    public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
         ArrayList<Task> tasks = new ArrayList<>();
